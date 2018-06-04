@@ -1,7 +1,7 @@
 name: SkyWarsForPE
 main: larryTheCoder\SkyWarsPE
 version: "1.9.1 Delta F20"
-api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9]
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
 author: larryTheCoder
 commands:
   sw:
@@ -47,6 +47,7 @@ permissions:
         default: op
      sw.command.reload:
         description: reload skywars plugin
+        
         default: op
      sw.command.start:
         description: start a game
